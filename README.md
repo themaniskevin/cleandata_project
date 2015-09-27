@@ -8,3 +8,6 @@ run_analysis.R - Analysis Script that modifies UCI HAR data sets
 CodeBook.md - CodeBook explaining functionality and workflow of run_analysis.R
 
 Please read CodeBook.md for functionality and workflow of run_analysis.R
+
+To execute the script you will have to have the UCI data set in the following directory:
+C:\Users\krodriguez\Documents\Coursera\GettingCleaningData\Project\UCI HAR Dataset
